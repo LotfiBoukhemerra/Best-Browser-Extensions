@@ -2,7 +2,7 @@
 
 ## For privacy:
 
-### For firefox <img src=".\assets\firefox.png" height="20" />
+### For firefox <img src=".\assets\firefox.png" height="25" />
 
 -   [**Privacy Badger**](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 
@@ -28,7 +28,7 @@
 
 ---
 
-### For Chrome <img src=".\assets\chrome.png" width="20" />
+### For Chrome <img src=".\assets\chrome.png" width="25" />
 
 -   [**Privacy Badger**](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 
@@ -52,7 +52,7 @@
 
 ---
 
-### For Opera <img src=".\assets\opera.png" width="20" />
+### For Opera <img src=".\assets\opera.png" width="25" />
 
 -   [**Opera Vpn**](https://addons.opera.com/en/extensions/details/opera-vpn/)
 
@@ -80,7 +80,7 @@
 
 ---
 
-### For Microsoft Edge <img src=".\assets\microsoft edge.png" width="20" />
+### For Microsoft Edge <img src=".\assets\microsoft edge.png" width="25" />
 
 -   [**Privacy Badger**](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
 
