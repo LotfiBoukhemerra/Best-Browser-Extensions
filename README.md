@@ -1,16 +1,18 @@
 # Browser Extensions Guide
 
-## For privacy:
+# For privacy:
 
-### For firefox <img src=".\assets\firefox.png" height="25" />
+## 📌 Privacy Badger:
 
--   [**Privacy Badger**](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/privacy-badger/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
 
--   [**HTTPS Everywhere**](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+## HTTPS Everywhere:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/https-everywhere/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/https-everywhere/fchjpkplmbeeeaaogdbhjbgbknjobohb)
 
 -   [**DuckDuckGo Privacy Essentials**](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 
--   [**Ghostery – Privacy Ad Blocker**](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)
+-   [**Ghostery - Privacy Ad Blocker**](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)
 
 -   [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
@@ -28,15 +30,11 @@
 
 ---
 
-### For Chrome <img src=".\assets\chrome.png" width="25" />
-
--   [**Privacy Badger**](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-
--   [**HTTPS Everywhere**](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
+## For Chrome <img src=".\assets\chrome.png" width="21" />
 
 -   [**DuckDuckGo Privacy Essentials**](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 
--   [**Ghostery – Privacy Ad Blocker**](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
+-   [**Ghostery - Privacy Ad Blocker**](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
 
 -   [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
@@ -52,19 +50,15 @@
 
 ---
 
-### For Opera <img src=".\assets\opera.png" width="25" />
+## For Opera <img src=".\assets\opera.png" width="22" />
 
 -   [**Opera Vpn**](https://addons.opera.com/en/extensions/details/opera-vpn/)
 
 -   [**Opera Ad Blocker**](https://addons.opera.com/en/extensions/details/opera-ad-blocker/)
 
--   [**Privacy Badger**](https://addons.opera.com/en/extensions/details/privacy-badger/)
-
--   [**HTTPS Everywhere**](https://addons.opera.com/en/extensions/details/https-everywhere/)
-
 -   [**DuckDuckGo Privacy Essentials**](https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/)
 
--   [**Ghostery – Privacy Ad Blocker**](https://addons.opera.com/en/extensions/details/ghostery/)
+-   [**Ghostery - Privacy Ad Blocker**](https://addons.opera.com/en/extensions/details/ghostery/)
 
 -   [**uBlock Origin**](https://addons.opera.com/en/extensions/details/ublock/)
 
@@ -80,15 +74,11 @@
 
 ---
 
-### For Microsoft Edge <img src=".\assets\microsoft edge.png" width="25" />
-
--   [**Privacy Badger**](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
-
--   [**HTTPS Everywhere**](https://microsoftedge.microsoft.com/addons/detail/https-everywhere/fchjpkplmbeeeaaogdbhjbgbknjobohb)
+## For Microsoft Edge <img src=".\assets\microsoft edge.png" width="22" />
 
 -   [**DuckDuckGo Privacy Essentials**](https://microsoftedge.microsoft.com/addons/detail/duckduckgo-privacy-essent/caoacbimdbbljakfhgikoodekdnlcgpk)
 
--   [**Ghostery – Privacy Ad Blocker**](https://microsoftedge.microsoft.com/addons/detail/ghostery-–-privacy-ad-blo/fclbdkbhjlgkbpfldjodgjncejkkjcme)
+-   [**Ghostery - Privacy Ad Blocker**](https://microsoftedge.microsoft.com/addons/detail/ghostery-–-privacy-ad-blo/fclbdkbhjlgkbpfldjodgjncejkkjcme)
 
 -   [**uBlock Origin**](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 
@@ -101,3 +91,41 @@
 -   [**Virus Total**](https://chrome.google.com/webstore/detail/vt4browsers/efbjojhplkelaegfbieplglfidafgoka)
 
 -   [**AdGuard AdBlocker**](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh)
+
+---
+
+# For prductivity:
+
+## Grammarly:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) . [<img src=".\assets\opera.png" height="25" />](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/grammarly-grammar-checke/cnlefmmeadmemmdciolhbnfeacpdfbkd)
+
+## Save All Images:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/save-all-images/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/download-all-images/focinmnfmbmhknhdaamhppgdhahnbgif)
+
+## Google translate:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/save-all-images/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/download-all-images/focinmnfmbmhknhdaamhppgdhahnbgif)
+
+## Dark Reader:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/save-all-images/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/download-all-images/focinmnfmbmhknhdaamhppgdhahnbgif)
+
+## Dark Reader:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/save-all-images/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/download-all-images/focinmnfmbmhknhdaamhppgdhahnbgif)
+
+## Lastpass Password Manager:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/save-all-images/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/download-all-images/focinmnfmbmhknhdaamhppgdhahnbgif)
+
+## Language Tool:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/grammar-and-spell-checker-languagetool/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/grammar-spell-checker-%E2%80%94/hfjadhjooeceemgojogkhlppanjkbobc)
+
+---
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lotfibkmr)
+
+🔴
