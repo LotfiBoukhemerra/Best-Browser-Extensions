@@ -1,8 +1,8 @@
 # Browser Extensions Guide
 
-# For privacy:
+# 📌 For privacy:
 
-## 📌 Privacy Badger:
+## Privacy Badger:
 
 -   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/privacy-badger/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
 
@@ -10,15 +10,23 @@
 
 -   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/https-everywhere/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/https-everywhere/fchjpkplmbeeeaaogdbhjbgbknjobohb)
 
--   [**DuckDuckGo Privacy Essentials**](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+## DuckDuckGo Privacy Essentials:
 
--   [**Ghostery - Privacy Ad Blocker**](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/duckduckgo-privacy-essent/caoacbimdbbljakfhgikoodekdnlcgpk)
 
--   [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+## Ghostery - Privacy Ad Blocker:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/ghostery/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/ghostery-–-privacy-ad-blo/fclbdkbhjlgkbpfldjodgjncejkkjcme)
+
+## uBlock Origin:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) . [<img src=".\assets\chrome.png" width="25" />](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) . [<img src=".\assets\opera.png" height="25" />](https://addons.opera.com/en/extensions/details/ublock/) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+
+## Norton Safe Web:
+
+-   [<img src=".\assets\firefox.png" height="23" />](https://addons.mozilla.org/en-US/firefox/addon/norton-safe-web/) . [<img src=".\assets\chrome.png" width="25" />](https://search.norton.com/nsssOnboarding?PartnerID=ESTORE&promocode=DEFAULTWEB&_gl=1*idwkrr*_ga4_ga*LU1rS19uY2pKc2xVNFNvYjNveGU.*_ga4_ga_FG3M2ET3ED*MTYzMzQwOTgyMS4xMy4xLjE2MzM0MDk4NjQuMTc.&guid=eb96cbf3-963c-452d-91e5-4b1be3e84ca7&vendorOffered=ask&trackId=SST102) . [<img src=".\assets\opera.png" height="25" />](https://search.norton.com/nsssOnboarding?PartnerID=ESTORE&promocode=DEFAULTWEB&_gl=1*idwkrr*_ga4_ga*LU1rS19uY2pKc2xVNFNvYjNveGU.*_ga4_ga_FG3M2ET3ED*MTYzMzQwOTgyMS4xMy4xLjE2MzM0MDk4NjQuMTc.&guid=eb96cbf3-963c-452d-91e5-4b1be3e84ca7&vendorOffered=ask&trackId=SST102) . [<img src=".\assets\microsoft edge.png" width="25" />](https://microsoftedge.microsoft.com/addons/detail/norton-safe-web/bdaafgjhhjkdplpffldcncdignokfkbo)
 
 -   [**Facebook Container**](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
-
--   [**Norton Safe Web**](https://addons.mozilla.org/en-US/firefox/addon/norton-safe-web/)
 
 -   [**Cookie AutoDelete**](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
 
@@ -32,14 +40,6 @@
 
 ## For Chrome <img src=".\assets\chrome.png" width="21" />
 
--   [**DuckDuckGo Privacy Essentials**](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
-
--   [**Ghostery - Privacy Ad Blocker**](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
-
--   [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-
--   [**Norton Safe Web**](https://search.norton.com/nsssOnboarding?PartnerID=ESTORE&promocode=DEFAULTWEB&_gl=1*idwkrr*_ga4_ga*LU1rS19uY2pKc2xVNFNvYjNveGU.*_ga4_ga_FG3M2ET3ED*MTYzMzQwOTgyMS4xMy4xLjE2MzM0MDk4NjQuMTc.&guid=eb96cbf3-963c-452d-91e5-4b1be3e84ca7&vendorOffered=ask&trackId=SST102)
-
 -   [**Cookie AutoDelete**](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
 
 -   [**NoScript Security Suite**](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
@@ -52,18 +52,6 @@
 
 ## For Opera <img src=".\assets\opera.png" width="22" />
 
--   [**Opera Vpn**](https://addons.opera.com/en/extensions/details/opera-vpn/)
-
--   [**Opera Ad Blocker**](https://addons.opera.com/en/extensions/details/opera-ad-blocker/)
-
--   [**DuckDuckGo Privacy Essentials**](https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/)
-
--   [**Ghostery - Privacy Ad Blocker**](https://addons.opera.com/en/extensions/details/ghostery/)
-
--   [**uBlock Origin**](https://addons.opera.com/en/extensions/details/ublock/)
-
--   [**Norton Safe Web**](https://search.norton.com/nsssOnboarding?PartnerID=ESTORE&promocode=DEFAULTWEB&_gl=1*idwkrr*_ga4_ga*LU1rS19uY2pKc2xVNFNvYjNveGU.*_ga4_ga_FG3M2ET3ED*MTYzMzQwOTgyMS4xMy4xLjE2MzM0MDk4NjQuMTc.&guid=eb96cbf3-963c-452d-91e5-4b1be3e84ca7&vendorOffered=ask&trackId=SST102)
-
 -   [**Cookie AutoDelete**](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
 
 -   [**NoScript Security Suite**](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
@@ -72,17 +60,13 @@
 
 -   [**AdGuard AdBlocker**](https://addons.opera.com/en/extensions/details/adguard/)
 
+-   [**Opera Vpn**](https://addons.opera.com/en/extensions/details/opera-vpn/)
+
+-   [**Opera Ad Blocker**](https://addons.opera.com/en/extensions/details/opera-ad-blocker/)
+
 ---
 
 ## For Microsoft Edge <img src=".\assets\microsoft edge.png" width="22" />
-
--   [**DuckDuckGo Privacy Essentials**](https://microsoftedge.microsoft.com/addons/detail/duckduckgo-privacy-essent/caoacbimdbbljakfhgikoodekdnlcgpk)
-
--   [**Ghostery - Privacy Ad Blocker**](https://microsoftedge.microsoft.com/addons/detail/ghostery-–-privacy-ad-blo/fclbdkbhjlgkbpfldjodgjncejkkjcme)
-
--   [**uBlock Origin**](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
-
--   [**Norton Safe Web**](https://microsoftedge.microsoft.com/addons/detail/norton-safe-web/bdaafgjhhjkdplpffldcncdignokfkbo)
 
 -   [**Cookie AutoDelete**](https://microsoftedge.microsoft.com/addons/detail/cookie-autodelete/djkjpnciiommncecmdefpdllknjdmmmo)
 
@@ -94,7 +78,7 @@
 
 ---
 
-# For prductivity:
+# 📌 For prductivity:
 
 ## Grammarly:
 
